@@ -27,5 +27,4 @@ Specialise in remote integrations, enabling legacy systems and modern systems to
 Writing APIs to allow third parties including mobile/tablet app developers to access client data.  
 
 Setting standards for technical delivery in terms of quality control, systems control and development processes and practices.
-
-Specialties: 
+ 
